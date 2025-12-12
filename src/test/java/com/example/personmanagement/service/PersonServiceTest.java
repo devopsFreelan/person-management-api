@@ -15,6 +15,9 @@ import java.util.Optional;
 import static org.junit.jupiter.api.Assertions.*;
 import static org.mockito.Mockito.*;
 
+/**
+ * Unit tests for the `PersonService` class.
+ */
 class PersonServiceTest {
 
     private PersonRepository repo;

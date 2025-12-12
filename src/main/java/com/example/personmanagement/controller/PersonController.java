@@ -10,6 +10,9 @@ import org.springframework.web.bind.annotation.*;
 import java.net.URI;
 import java.util.List;
 
+/**
+ * REST endpoints for managing Person resources.
+ */
 @RestController
 @RequestMapping("/api/persons")
 public class PersonController {
