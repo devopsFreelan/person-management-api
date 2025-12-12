@@ -1,0 +1,13 @@
+Response (example):
+
+HTTP/1.1 201 Created
+Content-Type: application/json
+Location: /api/persons/1
+
+{
+  "id": 1,
+  "firstName": "Jane",
+  "lastName": "Doe",
+  "email": "jane@example.com",
+  "age": 25
+}
