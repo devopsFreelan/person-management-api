@@ -3,7 +3,7 @@
 Clean, modular Spring Boot REST API for managing people with CRUD.
 
 Badges
-- Build: ![CI](https://github.com/devopsFreelan/person-management-api/actions/workflows/ci.yml/badge.svg)
+- Build: [![CI](https://github.com/devopsFreelan/person-management-api/actions/workflows/ci.yml/badge.svg)](https://github.com/devopsFreelan/person-management-api/actions/workflows/ci.yml)
 
 Prerequisites
 - Java 17
