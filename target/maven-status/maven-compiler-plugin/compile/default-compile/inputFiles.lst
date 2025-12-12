@@ -1,8 +1,0 @@
-/workspaces/person-management-api/src/main/java/com/example/personmanagement/controller/PersonController.java
-/workspaces/person-management-api/src/main/java/com/example/personmanagement/repository/PersonRepository.java
-/workspaces/person-management-api/src/main/java/com/example/personmanagement/dto/PersonDTO.java
-/workspaces/person-management-api/src/main/java/com/example/personmanagement/model/Person.java
-/workspaces/person-management-api/src/main/java/com/example/personmanagement/PersonManagementApplication.java
-/workspaces/person-management-api/src/main/java/com/example/personmanagement/service/PersonService.java
-/workspaces/person-management-api/src/main/java/com/example/personmanagement/exception/ResourceNotFoundException.java
-/workspaces/person-management-api/src/main/java/com/example/personmanagement/exception/GlobalExceptionHandler.java
