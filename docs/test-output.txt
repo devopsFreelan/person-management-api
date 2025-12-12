@@ -1,5 +1,17 @@
-Maven test run produced:
-
-Tests run: 10, Failures: 0, Errors: 0, Skipped: 0
-
-Full log available in the console when running `mvn test`.
+[[34;1mINFO[0m] [stdout] 22:29:37.752 [main] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.example.personmanagement.controller.PersonControllerTest]: PersonControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+[[34;1mINFO[0m] [stdout] 22:29:37.953 [main] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.example.personmanagement.PersonManagementApplication for test class com.example.personmanagement.controller.PersonControllerTest
+[[34;1mINFO[0m] [stdout] 
+[[34;1mINFO[0m] [stdout]   .   ____          _            __ _ _
+[[34;1mINFO[0m] [stdout]  /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+[[34;1mINFO[0m] [stdout] ( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+[[34;1mINFO[0m] [stdout]  \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+[[34;1mINFO[0m] [stdout]   '  |____| .__|_| |_|_| |_\__, | / / / /
+[[34;1mINFO[0m] [stdout]  =========|_|==============|___/=/_/_/_/
+[[34;1mINFO[0m] [stdout]  :: Spring Boot ::                (v3.1.6)
+[[34;1mINFO[0m] [stdout] 
+[[34;1mINFO[0m] [stdout] 2025-12-12T22:29:38.472Z  INFO 12334 --- [           main] c.e.p.controller.PersonControllerTest    : Starting PersonControllerTest using Java 25.0.1 with PID 12334 (started by codespace in /workspaces/person-management-api)
+[[34;1mINFO[0m] [stdout] 2025-12-12T22:29:38.473Z  INFO 12334 --- [           main] c.e.p.controller.PersonControllerTest    : No active profile set, falling back to 1 default profile: "default"
+[[34;1mINFO[0m] [stdout] 2025-12-12T22:29:41.162Z  INFO 12334 --- [           main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+[[34;1mINFO[0m] [stdout] 2025-12-12T22:29:41.162Z  INFO 12334 --- [           main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+[[34;1mINFO[0m] [stdout] 2025-12-12T22:29:41.165Z  INFO 12334 --- [           main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+[[34;1mINFO[0m] [stdout] 2025-12-12T22:29:41.200Z  INFO 12334 --- [           main] c.e.p.controller.PersonControllerTest    : Started PersonControllerTest in 3.158 seconds (process running for 4.503)
