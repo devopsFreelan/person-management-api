@@ -1,0 +1,3 @@
+This file is a placeholder for a Postman screenshot of a POST /api/persons request.
+
+To generate a screenshot: send the request (see curl-create.md) and capture the Postman window as a PNG at docs/postman-create.png. The repo includes a placeholder PNG file.

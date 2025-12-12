@@ -1,0 +1,5 @@
+Maven test run produced:
+
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0
+
+Full log available in the console when running `mvn test`.
